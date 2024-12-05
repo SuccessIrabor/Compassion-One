@@ -4,3 +4,5 @@ plugins:
 
 title: Compassion One
 description: Compassion One App Terms of Service and Privacy Policy
+
+show_downloads: true
